@@ -6,7 +6,7 @@ In the absence of individual-level ground truth, we consider three validation me
 (i) residential zone overlap, 
 (ii) census resident registers, and 
 (iii) dwelling unit density.
-We then propagate each configuration into a downstream application(??) that relies on home assignment and document how these resulting quantities shift.
+We propagate each configuration into a downstream application(??) that relies on home assignment and document how these resulting quantities shift.
 We find that knob xxx dominates variation while knobs yyy matter little.
 
 <How Many Homes Does a Device Have? The Garden of Forking Paths in GPS Home Location Inference>
