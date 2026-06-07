@@ -1,0 +1,38 @@
+# Project
+venv*/
+output/
+data/
+scratch/
+tmp/
+
+# Large or generated data
+*.parquet
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.tar.gz
+*.geojson
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.bak
+
+# Env / credentials
+.env
+.envrc
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+# Sweep core
+polars
+pyarrow
+pandas
+pyjanitor
+
+# Geospatial
+geopandas
+h3
+shapely
+
+# Stats and figures
+numpy
+scipy
+matplotlib
+seaborn
+tqdm
+
+# Notebook
+jupyter
+notebook
+
+# Dev
+black
+isort
